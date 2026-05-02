@@ -11,6 +11,7 @@ layout: default
 
 - [プライバシーポリシー](./privacy.html)
 - [利用規約](./terms.html)
+- [アカウント削除リクエスト](./delete-account.html)
 
 ---
 
@@ -18,6 +19,7 @@ layout: default
 
 - [Privacy Policy](./privacy.html)
 - [Terms of Service](./terms.html)
+- [Account Deletion Request](./delete-account.html)
 
 ## お問い合わせ / Contact
 
